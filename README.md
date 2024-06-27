@@ -9,3 +9,4 @@ List of Awesome Articles that I stumbled upon while building my first Remix app
 - [Handling Nested Routes in Remix #2511](https://github.com/remix-run/remix/issues/2511#issuecomment-1155448882)
 - [Remix Pagination](https://www.jacobparis.com/content/remix-pagination)
 - [Create a Simple Cookie with Remix](https://jonmeyers.io/blog/create-a-simple-cookie-with-remix/)
+- [Remix SEO](https://carlogino.com/blog/remix-seo)
